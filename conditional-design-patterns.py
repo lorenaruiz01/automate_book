@@ -56,3 +56,5 @@ elif price_diff < purchase_price / 10:
 
 if purchase_price <= sale_price: 
     print("You made a profit of $" + str(price_diff))
+else: 
+    print("You had a loss of $" + str(price_diff))
