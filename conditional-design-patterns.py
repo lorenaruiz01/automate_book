@@ -42,3 +42,6 @@ elif vehicle == "mega kart":
 print(
     "The " + vehicle + "has " + str(speed) + str(acceleration) + " acceleration."
 )
+
+
+# A program with two independent conditionals
