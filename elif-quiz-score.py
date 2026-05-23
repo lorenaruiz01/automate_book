@@ -1,1 +1,4 @@
 percent = int(input("Enter quiz score (out of 100): "))
+
+if percent == 100:
+    print("Stellar!")
