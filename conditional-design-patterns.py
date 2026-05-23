@@ -29,3 +29,6 @@ else:
 # Overwriting a default value
 vehicle = input("Pick a vehicle: ")
 
+speed = 5
+acceleration = 5
+
