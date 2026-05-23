@@ -27,3 +27,5 @@ else:
 
 
 # Overwriting a default value
+vehicle = input("Pick a vehicle: ")
+
