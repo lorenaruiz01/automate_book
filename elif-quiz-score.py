@@ -6,3 +6,5 @@ elif percent >= 90:
     print("Excellent work!")
 elif percent >= 75:
     print("Nice job!")
+else: 
+    print("Great effort!")
