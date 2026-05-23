@@ -10,3 +10,5 @@ elif percent >= 75:
 else: 
     print("Great effort!")
 
+# validating inputs
+filename = input("What would you like to name the photo?")
