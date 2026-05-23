@@ -45,3 +45,6 @@ print(
 
 
 # A program with two independent conditionals
+purchase_price = 42.70
+sale_price = float(input("How much did you sell for? "))
+
