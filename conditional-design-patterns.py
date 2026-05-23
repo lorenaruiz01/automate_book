@@ -39,3 +39,6 @@ elif vehicle == "mega kart":
     speed = speed + 2
     acceleration = acceleration + 2
 
+print(
+    "The " + vehicle + "has " + str(speed) + str(acceleration) + " acceleration."
+)
