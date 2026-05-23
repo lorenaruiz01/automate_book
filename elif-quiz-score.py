@@ -4,3 +4,5 @@ if percent == 100:
     print("Stellar!")
 elif percent >= 90:
     print("Excellent work!")
+elif percent >= 75:
+    print("Nice job!")
