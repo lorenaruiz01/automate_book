@@ -54,3 +54,5 @@ if price_diff > purchase_price:
 elif price_diff < purchase_price / 10: 
     print("There was very little change in value.")
 
+if purchase_price <= sale_price: 
+    print("You made a profit of $" + str(price_diff))
