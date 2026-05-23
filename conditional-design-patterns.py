@@ -1,3 +1,4 @@
+# capturing a range
 percent = int(input("Enter quiz score (out of 100): "))
 
 if percent == 100:
