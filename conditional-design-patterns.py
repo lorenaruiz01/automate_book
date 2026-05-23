@@ -51,3 +51,6 @@ sale_price = float(input("How much did you sell for? "))
 price_diff = round(abs(sale_price - purchase_price), 2)
 if price_diff > purchase_price: 
     print("There was a huge change in value.")
+elif price_diff < purchase_price / 10: 
+    print("There was very little change in value.")
+
