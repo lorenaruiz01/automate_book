@@ -1,3 +1,5 @@
+# Conditional design patterns (Khan Academy Python, Unit 2)
+
 # capturing a range
 percent = int(input("Enter quiz score (out of 100): "))
 
@@ -10,6 +12,7 @@ elif percent >= 75:
 else: 
     print("Great effort!")
 
+
 # validating inputs
 filename = input("What would you like to name the photo?")
 
@@ -21,3 +24,6 @@ else:
     # photos are stored as JPEGs, so we add the file extension.
     filename = filename + ".jpeg"
     print("The file has been renamed to " + filename)
+
+
+# Overwriting a default value
