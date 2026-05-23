@@ -32,3 +32,4 @@ vehicle = input("Pick a vehicle: ")
 speed = 5
 acceleration = 5
 
+# Players unlock mega vehicles by winning a race on every course.
