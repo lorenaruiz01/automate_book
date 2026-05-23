@@ -8,3 +8,4 @@ elif percent >= 75:
     print("Nice job!")
 else: 
     print("Great effort!")
+
