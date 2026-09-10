@@ -22,5 +22,5 @@ int main()
     std::cout << saved_cents << " cents has " << quarters << " quarters ";
     std::cout << dimes << " dimes " << nickels << " nickels and " << pennies << " pennies.\n";
     
-    
+    return 0;
 }
