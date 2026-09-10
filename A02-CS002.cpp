@@ -14,4 +14,6 @@ int main()
     dimes = total_cents / 10; //figures out how many dimes
     total_cents = total_cents - (dimes * 10); //figures out how many cents remain.
     
+    nickels = total_cents / 5; //figures out how many nickels
+    total_cents = total_cents - (nickels * 5);
 }
