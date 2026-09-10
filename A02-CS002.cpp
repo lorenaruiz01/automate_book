@@ -11,5 +11,7 @@ int main()
     quarters = total_cents / 25; //figures out how many quarters
     total_cents = total_cents - (quarters * 25); //figures out how mny cents remain.
 
+    dimes = total_cents / 10; //figures out how many dimes
+    total_cents = total_cents - (dimes * 10); //figures out how many cents remain.
     
 }
