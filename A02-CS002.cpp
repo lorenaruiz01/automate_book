@@ -16,4 +16,6 @@ int main()
     
     nickels = total_cents / 5; //figures out how many nickels
     total_cents = total_cents - (nickels * 5);
+
+    pennies = total_cents % 5; //figure out how many cents using modulo
 }
