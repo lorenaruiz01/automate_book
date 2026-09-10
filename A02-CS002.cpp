@@ -18,4 +18,6 @@ int main()
     total_cents = total_cents - (nickels * 5);
 
     pennies = total_cents % 5; //figure out how many cents using modulo
+
+    std::cout << saved_cents << " cents has " << quarters << " quarters ";
 }
